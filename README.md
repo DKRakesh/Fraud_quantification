@@ -1,7 +1,6 @@
 # Fraud_quantification
 Matlab code for quantifying the fraudulent transactions
-
-Cite this article as:
+If you are using this code then the article as:
 
 @article{rakesh2023improved,
   title={An improved differential evolution algorithm for quantifying fraudulent transactions},
