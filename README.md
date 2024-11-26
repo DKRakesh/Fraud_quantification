@@ -1,6 +1,8 @@
 # Fraud_quantification
 Matlab code for quantifying the fraudulent transactions.
-For detailed explaination, refer to the article given below:
+The code has implemented improved differential evolution based on composite binary crossover and mRMR pareto refining.
+
+For detailed explaination, refer and cite to the article given below:
 
 @article{rakesh2023improved,
   title={An improved differential evolution algorithm for quantifying fraudulent transactions},
